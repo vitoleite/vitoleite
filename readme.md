@@ -17,7 +17,7 @@
 
 ### Linguagens:
 
-<img align="left" alt="Python" width="25px" height="20px" src="https://escoladigital-production-storage.s3.amazonaws.com/uploads/images/original/20201103113533.png" />
+<img align="left" alt="Python" width="25px" height="25px" src="https://escoladigital-production-storage.s3.amazonaws.com/uploads/images/original/20201103113533.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
