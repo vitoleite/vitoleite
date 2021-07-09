@@ -10,7 +10,7 @@
 ### Conecte-se comigo:
 
 [<img align="left" alt="Vitor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Vitor | DiO" width="25px" height="20px" src="https://hermes.digitalinnovation.one/site/images/logo-sm-white.png" />][DiO]
+[<img align="left" alt="Vitor | DiO" width="25px" height="20px" src="https://www.notion.so/vitorleite/Git-1b16ebbd401042c684e3d1eafe13c4db#34cd26289ba84b08bf9a9e32f45567d2" />][DiO]
 
 
 <br />
