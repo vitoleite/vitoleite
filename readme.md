@@ -29,13 +29,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="vitoleite's GitHub Stats" src="[![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoleite)](https://github.com/anuraghazra/github-readme-stats)
-" />
-
-</details>
 
 [linkedin]: https://www.linkedin.com/in/vitorsilvaleite/
 [DiO]: https://web.digitalinnovation.one/users/vitorsilvaleite3?tab=achievements
