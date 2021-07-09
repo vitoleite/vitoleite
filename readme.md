@@ -10,7 +10,7 @@
 ### Conecte-se comigo:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Vitor | DiO" width="22px" src="https://hermes.digitalinnovation.one/site/images/logo-sm-white.png">] [DiO]
+[<img align="left" alt="Vitor | DiO" width="25px" src="https://hermes.digitalinnovation.one/site/images/logo-sm-white.png">] [DiO]
 
 
 <br />
