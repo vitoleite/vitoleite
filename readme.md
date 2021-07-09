@@ -32,7 +32,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="vitoleite's GitHub Stats" src="https://github-readme-stats.vitoleite.vercel.app/api?username=vitoleite&show_icons=true&hide_border=true" />
+  <img align="left" alt="vitoleite's GitHub Stats" src="[![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoleite)](https://github.com/anuraghazra/github-readme-stats)
+" />
 
 </details>
 
