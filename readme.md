@@ -3,9 +3,12 @@
 
 ## Aluno, estagiário e futuro economista.
 
-- 🔭 Finalizei meu primeiro Bootcamp como HTML Developer
-- 🌱 Atualmente focando em aprender
-- 🥅 2021 Goals: Finalizar 3 bootcamps pela Digital Innovation One
+- 🌱 Atualmente focando em aprender.
+- 🎯 2021 Goals:
+  - [x] Finalizado meu primeiro Bootcamp -> HTML Developer ✔️
+  - [ ] Finalizar 3 bootcamps pela Digital Innovation One
+  - [ ] Aprender o básico de algum Framework (Django ou Bootstrap)
+
 
 ### Conecte-se comigo:
 
