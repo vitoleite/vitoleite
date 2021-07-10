@@ -1,13 +1,15 @@
 # Seja bem-vindo 👋
 
 
-## Aluno, estagiário e futuro economista.
+### Aluno, estagiário e futuro economista.
 
 - 🌱 Atualmente focando em aprender.
 - 🎯 2021 Goals:
   - [x] Finalizado meu primeiro Bootcamp -> HTML Developer ✔️
   - [ ] Finalizar 3 bootcamps pela Digital Innovation One
   - [ ] Aprender o básico de algum Framework (Django ou Bootstrap)
+
+---
 
 ### Conecte-se comigo:
 
@@ -28,8 +30,6 @@
 
 <br />
 <br />
-
----
 
 
 [linkedin]: https://www.linkedin.com/in/vitorsilvaleite/
