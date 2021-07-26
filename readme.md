@@ -7,7 +7,7 @@
 - 🎯 2021 Goals:
   - [x] Finalizado meu primeiro Bootcamp -> HTML Developer ✔️
   - [ ] Finalizar 3 bootcamps pela Digital Innovation One
-  - [ ] Aprender o básico de algum Framework (Django ou Bootstrap)
+  - [x] Aprender o básico de algum Framework (Django ou Bootstrap) ✔️
 
 ---
 
