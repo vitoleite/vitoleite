@@ -23,7 +23,7 @@
 ### Linguagens:
 
 
-<img align="left" alt="Python" width="24px" src="https://image.flaticon.com/icons/png/512/1822/1822899.png" title="Python"/>
+[<img align="left" alt="Python" width="24px" src="https://image.flaticon.com/icons/png/512/1822/1822899.png" title="Python"/>][Python]
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML"/>
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS"/>
@@ -37,3 +37,4 @@
 
 [linkedin]: https://www.linkedin.com/in/vitorsilvaleite/
 [DiO]: https://web.digitalinnovation.one/users/vitorsilvaleite3?tab=achievements
+[Python]: https://github.com/vitoleite/Python_curso-em-video
