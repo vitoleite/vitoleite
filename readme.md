@@ -6,7 +6,7 @@
 - 🌱 Atualmente focando em aprender.
 
 ![Vitor_stats](https://github-readme-stats.vercel.app/api?username=vitoleite&layout=compact&theme=codeSTACKr)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoleite&layout=compact&theme=codeSTACKr"/>
+<img width="500em" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoleite&layout=compact&theme=codeSTACKr"/>
 
 ---
 
