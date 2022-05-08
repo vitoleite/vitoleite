@@ -1,8 +1,5 @@
 # Seja bem-vindo 👋
 
-
-### Aluno, estagiário e futuro economista.
-
 - 🌱 Atualmente focando em aprender.
 
 ![Vitor_stats](https://github-readme-stats.vercel.app/api?username=vitoleite&layout=compact&theme=codeSTACKr)
